@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="user.insert.php" server="192.168.7.232//var/www/" local="130811881586736332" remote="130812680050000000" />
+<file name="user.save.php" server="192.168.7.232//var/www/" local="130812102115861531" remote="130812680050000000" />
+<file name="dept.mapOU.php" server="192.168.7.232//var/www/" local="131003045436754095" remote="131008306840000000" />
+<file name="ou.getAllDepartments.json.php" server="192.168.7.232//var/www/" local="131002963598306411" remote="131008306840000000" />
+<file name="users.getAllLDAPUsers.php" server="192.168.7.232//var/www/" local="131003153067477048" remote="131008306840000000" />
+<file name="users.getList.php" server="192.168.7.232//var/www/" local="131003276466681158" remote="131008306840000000" />
+</dwsync>
