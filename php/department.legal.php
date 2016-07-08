@@ -1,0 +1,1 @@
+The legal department is responsible for the leag completion of land acquisition, splintering of land, registration of lands that were not registered, sale of land and apply for lost titles. s
